@@ -56,7 +56,7 @@ export default {
   data() {
     return {
       isCollapsed: false,
-      activemenu:"/"
+      activemenu: "/"
     };
   },
   computed: {
@@ -67,12 +67,12 @@ export default {
   methods: {
     menuList() {
       let path = this.$route.matched[0].path;
-      this.activemenu=path||"/"
-      console.log(path)
+      this.activemenu = path || "/";
+      console.log(path);
     }
   },
-  mounted(){
-      this.menuList()
+  mounted() {
+    this.menuList();
   }
 };
 </script>

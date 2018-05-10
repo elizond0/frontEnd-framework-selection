@@ -40,5 +40,13 @@
 
 * [iView](https://www.iviewui.com/)
 1. +autoComplete +avatar(头像) +timeline +loadingBar(加载进度条) +affix(图钉) +backTop +spin scroll(滚动加载)
+2. -内置过渡动画
 
 ### 5.iView实践
+
+* [实践demo](https://elizond0.github.io/iView/#/)
+
+### 6.Element实践
+
+* [实践demo](https://elizond0.github.io/Element/#/)
+
