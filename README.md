@@ -14,10 +14,31 @@
 
 * 框架要求:响应式+多平台
 
-### 3.框架备选
+### 3.JS框架和类库备选
 
-1. jquery + bootstrap V3
+1. jQuery:经典的轻量级类库,跨浏览器兼容IE6+,丰富的DOM选择器,链式表达式,ajax,插件扩展性好.
 
-### 4.框架优劣分析
+2. vue.js/react.js:数据双向绑定,数据与UI表现层分离,组件化复用性高,
 
-### 5.主要问题
+### 3.js框架:vue2.js
+
+* 选取理由:
+1. 轻量级(压缩后20kb),渐进式(学习曲线平缓)
+2. 开发者为国人,文档支持较好
+3. 社区活跃,库和插件丰富
+
+### 4.组件库备选
+
+* [Element](http://element-cn.eleme.io/#/zh-CN)
+
+1. basic:grid layout color font button icon
+2. form:radio checkbox input inputNumber(计数器) select cascader(级联选择器) switch slider timePicker datePicker dateTimePicker upload rate colorPicker transfer(穿梭框) form(表单)
+3. data:table tag progress tree pagination badge(徽标)
+4. notice:alert loading message messageBox notification
+5. navigation:navMenu tabs breadcrumb dropdown steps
+6. others:dialog tooltip(文字提示) popover(气泡提示,带标题) card carousel collapse
+
+* [iView](https://www.iviewui.com/)
+1. +autoComplete +avatar(头像) +timeline +loadingBar(加载进度条) +affix(图钉) +backTop +spin scroll(滚动加载)
+
+### 5.iView实践
