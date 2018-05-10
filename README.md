@@ -31,12 +31,12 @@
 
 * [Element](http://element-cn.eleme.io/#/zh-CN)
 
-1. basic:grid layout color font button icon
-2. form:radio checkbox input inputNumber(计数器) select cascader(级联选择器) switch slider timePicker datePicker dateTimePicker upload rate colorPicker transfer(穿梭框) form(表单)
-3. data:table tag progress tree pagination badge(徽标)
-4. notice:alert loading message messageBox notification
-5. navigation:navMenu tabs breadcrumb dropdown steps
-6. others:dialog tooltip(文字提示) popover(气泡提示,带标题) card carousel collapse
+1. Basic:grid layout color font button icon
+2. Form:radio checkbox input inputNumber(计数器) select cascader(级联选择器) switch slider timePicker datePicker dateTimePicker upload rate colorPicker transfer(穿梭框) form(表单)
+3. Data:table tag progress tree pagination badge(徽标)
+4. Notice:alert loading message messageBox notification
+5. Navigation:navMenu tabs breadcrumb dropdown steps
+6. Others:dialog tooltip(文字提示) popover(气泡提示,带标题) card carousel collapse
 
 * [iView](https://www.iviewui.com/)
 1. +autoComplete +avatar(头像) +timeline +loadingBar(加载进度条) +affix(图钉) +backTop +spin scroll(滚动加载)
