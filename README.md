@@ -44,9 +44,8 @@
 
 ### 5.iView实践
 
-* [实践demo](https://elizond0.github.io/iView/#/)
+* [实践demo](https://elizond0.github.io/iView/)
 
 ### 6.Element实践
 
-* [实践demo](https://elizond0.github.io/Element/#/)
-
+* [实践demo](https://github.com/elizond0/vue-elementui-admin)
